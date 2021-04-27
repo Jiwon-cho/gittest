@@ -1,13 +1,11 @@
 package com.git.main;
 
-import java.util.Date;
+import java.util.Scanner;
 
 public class Main {
 	
 	public static void main(String[] args) {
-		  System.out.println("¾È³ç git");
-		  
-		  Date today=new Date();
-		  System.out.println(today);
+		int su=4;
+		Scanner sc=new Scanner(System.in);
 	}
 }
